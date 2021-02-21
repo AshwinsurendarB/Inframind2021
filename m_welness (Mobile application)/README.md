@@ -1,6 +1,6 @@
 # m_welness
 
-A new Flutter project.
+A new Flutter project to create a application known as m_wellness app
 
 ## Getting Started
 
