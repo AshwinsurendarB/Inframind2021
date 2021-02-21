@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "healthmonitor-ms9u",
+  "private_key_id": "091eed054dec18a3146985fe7db276c0a39cce9f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5Q1pOjlcga2uO\nsFJ1LhRJPxdVm65zpq5TR10FBJWKaNolTe7h0ol3dKNrqnsY+jt77Q5owIaMfVXR\n5FfrKsA62BBxJkBc3MS8w++pSUq84ZXtrhPCxl1EdtKReQg1O4ccW+gdJGW/8X6/\nIl5PL/DGR5cOZcwsskaC/wd+G/muDT1R4tHE1HLAgf9+hG/2E8MlM+8WqTOgRCsU\nLPupz5N+N1/aVPaWkIZVQfgPXvNDuLXWwYpuRlxJr/JoRH//L9rjbAVIa/PfgW/b\nVcJ71tmQsRVUqgkFPJCoK2hEHqJf/zc4O96i82xorn4tWO08n4KvqoL3E0o+P22j\nZ5NkvVPxAgMBAAECggEABN5JD7pm02JvQPXPh5EZQF7TjqYuJzowkjNUYEQ2vRyJ\n6vlezHlbWmkVaEgNFGLIUGEyLpIslvbY2/tLoibim/Pp5AdKIVvodutmhK95Ms3H\nbPz/kO/kgImSI/d8aJBdZGM34219l6smwQAMCWRW8pGWsxlStwlM7WFP7EJGRTVm\nuuY/ivGAxQT621b1LOe9/oh7POVJRHqAgoAwAYX+OnNoWqspPM+x778PI3W8HYkd\nGQEkxEcOhbRHwljQyGph0RrdpNcBxF5jnvgAhQ1NcgtuJpd3Igps2U3/3okCoGbc\nrtTYXneaPFBeTEo3DsBQzTb63kgUhbA8sC+QM5BESQKBgQDk5ETeODjKwAukYB96\nC/4QIZo/+hY8b5IuzFfar3AObWoqTFNoavmnmChAH/cyG/5DmNkZMRbCBJJnPtQO\nmkE2wwkmYqT9nnY15ONs/EA8ZMBb+ZeBgn7zb4QBBnLmjE/PRrJRfhrdNwiCzenF\n8q4M6TIrPA7zY+R34zVlyJsrDQKBgQDPNFDPhdAZGKe54pcgskdpsE93qJ+gSixm\ng+6fDScYMBjTofKa7vmWG2tk3J6xus7j/bRy6SA46j7MDa4dBp0yKdkPWgYY9SKE\nNa3LsR19SL9RhT82/bcQsCqPnnW5ld+OVzwGfrWFqwFvPyaC1mL++YOnC8QtKpAe\n44M1izeDdQKBgGvw4jFRniavLk5ULkPmB+gfkJh/HaFelDeRkhTFCzkijCBqYiMp\n35YTgVfMO0zcOqoyGJ9ysOLKOSiLToGcaQikLVp2xov8AI8l48JvqvNQKA63w6UF\nn0y52CyLl//1R2XeVxVrPMv5uf/Fj2sUKNRZ3Jja98n737BR68qWMea5AoGBALJM\n93kMUf02jSZVCO1W3ELjOA7k6K+bBEgXIaB2Rfz3bnW2tziBif6Ui76YZmrUMLJa\nIAx99X9kezNGVlyd02lWP3WJZxPU5aXVNz+/onurvQ5eVf5xJzXSEl3R4sYXZO9s\nu7dvE675b1uWgQI3j6qPda2qX17qcGhUKRVLPjL9AoGAPagV/NgiaFud1whKVDls\nCHzMVVPB7r1cl3in2nl7M6erbPStRRnZqxIm2+AF4XpFdzaHt0GduHtWhPp02s7U\nYQjq1q68w2toFenQBanOjKaGr6TLEf/v67SZ1tmBaNriGrQb10EEbCi/NIxXGmN3\nHyu0OIKEv/GrqEEieHQSqhc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "wellnessmerline@healthmonitor-ms9u.iam.gserviceaccount.com",
+  "client_id": "102050205667085081079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wellnessmerline%40healthmonitor-ms9u.iam.gserviceaccount.com"
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "199916236968",
+    "project_id": "welness-34e6b",
+    "storage_bucket": "welness-34e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199916236968:android:41a19c0f0ee67fcf08929d",
+        "android_client_info": {
+          "package_name": "com.example.m_welness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199916236968-hs4bt2ilhpbj88t4kbn1fbq9udaj45ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.m_welness",
+            "certificate_hash": "93266cdbbe9a499fa302ba5069694cb5874d817f"
+          }
+        },
+        {
+          "client_id": "199916236968-j33j18anov62c1p6uh5e1os3qmkd3veh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI2D8IpkN-HCeHoxQmfRd-QxzrZfEiU8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199916236968-j33j18anov62c1p6uh5e1os3qmkd3veh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
